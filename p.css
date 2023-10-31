@@ -1,0 +1,103 @@
+* {
+	margin: 0px;
+}
+
+.header {
+	background-color: rgba(253, 94, 152, 0.586);
+	color: rgb(246, 234, 234);
+	border: 10px solid black;
+	margin: 1px;
+	padding: 9px;
+	height: 40px;
+
+}
+
+#a1 {
+
+	color: white;
+	text-decoration: none;
+}
+
+.blue {
+	align-items: left;
+}
+
+.ooter {
+	background-color: rgba(255, 127, 127, 0.616);
+	color: black;
+	border: 10px solid black;
+	margin: 1px;
+	padding: 9px;
+	height: 63px;
+}
+
+.bluee {
+	background-image: url(home.jpeg);
+
+	font-family: Verdana;
+	text-align: center;
+}
+
+form {
+	background-color: #fff;
+	max-width: 500px;
+	margin: 50px auto;
+	padding: 30px 20px;
+	box-shadow: 2px 5px 10px rgba(122, 164, 250, 0.782);
+}
+
+.form-control {
+	text-align: left;
+	margin-bottom: 25px;
+}
+
+.form-control label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+
+.form-control input,
+.form-control select,
+.form-control textarea {
+	border: 1px solid #777;
+	font-family: inherit;
+	padding: 10px;
+	width: 95%;
+}
+
+		
+		
+
+.aa {
+
+	text-decoration: none;
+}
+
+button {
+	background-color: #17323c;
+	border: 1px solid #777;
+	border-radius: 2px;
+	font-family: inherit;
+	font-size: 21px;
+	display: block;
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 20px;
+
+	cursor: pointer;
+}
+
+.red {
+	overflow: hidden;
+}
+
+.red a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	text-decoration: none;
+	font-size: 27px;
+}
+
+
